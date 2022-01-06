@@ -34,6 +34,12 @@ a {
     text-decoration: none;
 }
 
+button {
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
 .gradient__bg {    
 
     /* ff 3.6+ */
