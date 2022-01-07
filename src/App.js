@@ -11,12 +11,14 @@ function App() {
         <Navbar />
         <Header />
       </header>
-      <Brand />
-      <WhatGPT3 />
-      <Features />
-      <Possibility />
-      <Cta />
-      <Blog />
+      <main>
+        <Brand />
+        <WhatGPT3 />
+        <Features />
+        <Possibility />
+        <Cta />
+        <Blog />
+      </main>
       <Footer />
     </div>
   );
